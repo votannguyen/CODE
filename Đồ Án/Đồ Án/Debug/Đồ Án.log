@@ -1,4 +1,3 @@
-﻿  stdafx.cpp
-  Đồ Án.cpp
-Đồ Án.obj : error LNK2019: unresolved external symbol "void __cdecl MergeSort(struct Node * *)" (?MergeSort@@YAXPAPAUNode@@@Z) referenced in function "void __cdecl Input(struct List &,int)" (?Input@@YAXAAUList@@H@Z)
-C:\Users\Vo Tan Nguyen\Documents\GitHub\CODE\Đồ Án\Debug\Đồ Án.exe : fatal error LNK1120: 1 unresolved externals
+﻿  Đồ Án.cpp
+  Đồ Án.vcxproj -> C:\Users\Vo Tan Nguyen\Documents\GitHub\CODE\Đồ Án\Debug\Đồ Án.exe
+  Đồ Án.vcxproj -> C:\Users\Vo Tan Nguyen\Documents\GitHub\CODE\Đồ Án\Debug\Đồ Án.pdb (Full PDB)
